@@ -16,7 +16,7 @@ breaker = scorecompare(a, b, numOfHoles)
 
 playernames = get_player_names()
 
-print('Here be things', playernames[1][1])
+print('Here be things', playernames[1][2])
 
 if(breaker > 0):
     leader = 2
